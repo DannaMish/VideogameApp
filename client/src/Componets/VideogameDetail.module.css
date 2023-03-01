@@ -1,0 +1,28 @@
+.container{
+    border: 3px solid black;
+    display:flexbox;
+    flex-direction: row ;
+    border-radius: 30px;
+    padding: 40px;
+    flex-wrap:wrap;
+    background-image: url("https://files.cults3d.com/uploaders/19271668/illustration-file/467078da-d01f-490f-b5e4-12b306471619/Ultrafex_360_01.555-min.gif");
+    
+}
+.image{
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(132, 131, 143);
+}
+.title{
+    font-size: 35px;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+.parrafo{
+    font-size: 20px;
+    color: rgb(141, 141, 225);
+    text-align: center;
+    font-weight: bold;
+}

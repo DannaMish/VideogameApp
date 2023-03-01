@@ -1,0 +1,24 @@
+.card{
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    height: fit-content;
+    border-radius: 10px;
+    flex-direction:row ;
+    margin: 30px;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/33/fe/c9/33fec946b3e0def147ba37f47e532b52.jpg");
+}
+.parrafo{
+    font-size: 25px;
+    color: rgb(16, 16, 215);
+    font-weight: bold;
+}
+.vgenre{
+    font-size: 25px;
+    color: rgb(164, 164, 218);
+    font-weight: bold;   
+}
+image{
+    border-radius: 20px;
+}

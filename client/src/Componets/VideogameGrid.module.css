@@ -1,0 +1,11 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row ;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 5px 5px 10px;
+    flex-wrap: wrap;
+    background-image: url("https://i.pinimg.com/originals/27/b0/97/27b09780a912bbe1f345f7208a0d17fd.jpg");
+    text-align: center;
+}

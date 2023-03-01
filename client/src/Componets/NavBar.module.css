@@ -1,0 +1,9 @@
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 15px;
+    border: 1px solid black;
+    font-size: 30px;
+    background-image: url("https://i.pinimg.com/originals/33/fe/c9/33fec946b3e0def147ba37f47e532b52.jpg");
+}

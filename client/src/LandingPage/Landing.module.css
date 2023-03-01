@@ -1,0 +1,39 @@
+.fullfondo {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/ay/AYJ0P9WLD7IP1602720127239.jpg);
+    background-position: center;
+    background-size: cover;
+    /* Para este ejemplo usamos el archivo que está dentro de una carpeta imagenes 
+    en nuestro proyecto */
+  
+    /* 
+    Puedes modificar como se ve la imagen de fondo con las siguientes propiedades:
+    */
+  
+    /*
+    ###########################
+    background-position:
+    background-repeat:background-size:
+    background-repeat:
+    background-attachment:
+    ###########################
+    */
+  
+    /* A continuación explicamos cada como funciona cada propiedad. */
+  }
+  .button{
+    padding:5px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: #0893a8;
+    border-color:blue ;
+    color: blue;
+    font-size: 30px;
+  }
+  .text{
+    text-align: center;
+    font-size: 30px;
+    background-color: blue;
+    color: cadetblue
+  }
