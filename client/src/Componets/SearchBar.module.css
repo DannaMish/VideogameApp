@@ -1,0 +1,23 @@
+.input{
+background: rgb(233, 145, 145);
+   border: 1px solid #393939;
+   border-radius: 5px 5px 5px 5px;
+   color: #221a1a;
+   font-weight: bold;
+   font-size: 18px;
+   padding: 5px;
+   margin: 5px;
+   background-image: url("https://i.pinimg.com/originals/27/b0/97/27b09780a912bbe1f345f7208a0d17fd.jpg");
+}
+.container{
+   display: flex;
+   margin-top: auto;
+   
+    border-radius: 15px;
+    border: 1px solid black;
+    font-size: 30px;
+    background-image: url("https://i.pinimg.com/originals/27/b0/97/27b09780a912bbe1f345f7208a0d17fd.jpg");
+}
+.asc{
+    
+}
